@@ -56,7 +56,7 @@ $ npm start
 ```
 
 ### Deploy
-You can deploy it using [now](https://zeit.co/now); install now, setup your account and
+You can deploy it using [now](https://zeit.co/now). Install `now`, setup your account and
 ```bash
 $ now
 ```
