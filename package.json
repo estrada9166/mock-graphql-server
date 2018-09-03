@@ -1,0 +1,27 @@
+{
+  "name": "easygraphql-server-builder",
+  "version": "0.0.1",
+  "description": "This package will create a server to test GraphQL queries and mutations",
+  "main": "src/App.js",
+  "scripts": {
+    "start": "node src/App.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "estrada9166",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/estrada9166/mock-graphql-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/estrada9166/mock-graphql-server/issues"
+  },
+  "homepage": "https://github.com/estrada9166/mock-graphql-server#readme",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "easygraphql-mock": "0.0.10",
+    "express": "^4.16.3",
+    "express-graphql": "^0.6.12",
+    "graphql": "^14.0.0"
+  }
+}
